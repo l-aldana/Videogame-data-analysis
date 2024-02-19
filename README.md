@@ -23,5 +23,5 @@ Goals of this project:
 - Determine genres of video games more profitable and with more releases
 - Determine which platforms, genre and rating are the most used in each region
 - Perform hypothesis tests:
-    XBox and PC's average user socore are the same / different
-    Action and Sports's average user socore are the same / different
+- ***XBox and PC's average user socore are the same / different***
+- ***Action and Sports's average user socore are the same / different***
